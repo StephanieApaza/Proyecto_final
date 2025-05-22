@@ -18,7 +18,7 @@ El sitio cuenta con las siguientes secciones:
 - Imágenes con licencia libre y enlaces externos
 
 ## Cómo ver el sitio
-Puedes abrir el archivo .html en cualquier navegador. Haciendo click en este [link]
+Puedes abrir el archivo .html en cualquier navegador. Haciendo click en este [Enlace](https://stephanieapaza.github.io/Proyecto_final/)
 
 ## Autor
-Creado por [Stephanie Apaza](https://github.com/StephanieApaza) 
+Desarrollado por [Stephanie Apaza](https://github.com/StephanieApaza). 
